@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">VGCamera</string>
-    <string name="glass_voice_trigger">VGCamera</string>
+    <string name="glass_voice_prompt">Which Apps?</string>
+    <string name="glass_voice_trigger">Open IVA</string>
 
-    <string name="take_picture">Take a picture</string>
+    <string name="take_picture">Image</string>
     <string name="take_video">Record a video</string>
     <string name="stop">Stop Video</string>
     <string name="zoom">Zoom</string>
