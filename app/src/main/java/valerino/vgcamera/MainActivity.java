@@ -674,6 +674,10 @@ public class MainActivity extends Activity implements Camera.OnZoomChangeListene
      */
     void handleTakenMenu(int id) {
         switch (id) {
+            case R.id.identify:
+                
+                break;
+
             case R.id.share:
                 // TODO: share the image/video
                 break;

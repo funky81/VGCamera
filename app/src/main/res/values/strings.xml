@@ -4,11 +4,11 @@
     <string name="glass_voice_trigger">Open IVA</string>
 
     <string name="take_picture">Image</string>
-    <string name="take_video">Record a video</string>
+    <string name="take_video">Video</string>
     <string name="stop">Stop Video</string>
     <string name="zoom">Zoom</string>
     <string name="options">Options</string>
-    <string name="close">Close</string>
+    <string name="close">Exit</string>
 
     <string name="toggle_overlay">Overlay</string>
     <string name="toggle_location">Geotag</string>
@@ -21,6 +21,7 @@
     <string name="toggle_smooth_zoom">Smooth</string>
     <string name="zoom_reset">Reset</string>
 
+    <string name="identify">Identify</string>
     <string name="share">Share</string>
     <string name="save">Save</string>
     <string name="discard">Discard</string>
